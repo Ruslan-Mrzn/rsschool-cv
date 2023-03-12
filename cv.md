@@ -25,8 +25,8 @@ function manhattanDistance(pointA, pointB) {
 ## [Lubimovka](https://lubimovka.art/)
 * ### Description: multi-page site for the non-commercial organization
 * ### Technologies: React • Next.js • TypeScript • PostCSS
-* ### Link to repository: https://github.com/Studio-Yandex-Practicum/lubimovka_frontend
-* ### More about the project itself: https://vc.ru/dev/475502-keys-novyy-sayt-dlya-nezavisimogo-festivalya-lyubimovka
+* ### [Link to repository](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend)
+* ### [More about the project itself](https://vc.ru/dev/475502-keys-novyy-sayt-dlya-nezavisimogo-festivalya-lyubimovka)
 
 # 7. Education:
 * ### Kazan State University of Architecture and Engineering (engineer)
