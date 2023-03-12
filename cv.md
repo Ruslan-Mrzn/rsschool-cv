@@ -15,5 +15,21 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 5. Code example:
+```javascript
+function manhattanDistance(pointA, pointB) {
+  return Math.abs(pointA[0] - pointB[0]) + Math.abs(pointA[1] - pointB[1])
+}
+```
+# 6. Experience:
+## [Lubimovka](https://lubimovka.art/)
+* ### Description: multi-page site for the non-commercial organization
+* ### Technologies: React • Next.js • TypeScript • PostCSS
+* ### Link to repository: https://github.com/Studio-Yandex-Practicum/lubimovka_frontend
+* ### More about the project itself: https://vc.ru/dev/475502-keys-novyy-sayt-dlya-nezavisimogo-festivalya-lyubimovka
 
+# 7. Education:
+* ### Kazan State University of Architecture and Engineering (engineer)
+* ### Yandex.Practicum (web-developer course)
 
+# 8. English level: A2
